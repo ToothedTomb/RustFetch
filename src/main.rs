@@ -56,7 +56,7 @@ fn main() {
 
     // Displaying information
     println!("{}{}{}",
-             color::Fg(color::Cyan), style::Bold, "Rustfetch");
+             color::Fg(color::Cyan), style::Bold, "Rustyfetch");
     println!("{}",tux);
     println!("{}Hostname:{} {}", color::Fg(color::Green), style::Reset, hostname);
     println!("{}OS:{} {} {}", color::Fg(color::Green), style::Reset, os_name, os_version);
