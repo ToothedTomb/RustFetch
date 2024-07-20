@@ -1,10 +1,10 @@
 # RustyFetch
 Simple and easy neofetch like program for Linux written with rust of course!!!
-Installation
+# Installation
 
 Clone the Repository:
 
-git clone https://github.com/your-username/AreYouUsingArchLinux.git
+git clone https://github.com/ToothedTomb/RustFetch.git
 
 Navigate to the Project Directory:
 
